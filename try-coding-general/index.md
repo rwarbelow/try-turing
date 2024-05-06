@@ -43,7 +43,7 @@ There are several ways to get my attention throughout the workshop today. Let’
 
 ### Up Next
 
-- [What is Front End and Back End Engineering?](./what-is-fe-be)
+- [What is Web Development?](./what-is-fe-be)
 - [Ruby Introduction](./ruby-intro)
 - [Ruby Methods](./ruby-methods)
 - [Control Flow](./control-flow)
