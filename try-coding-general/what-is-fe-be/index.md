@@ -6,7 +6,7 @@ layout: lesson
 
 - [Welcome and Introductions](../)
 
-# What is Front End and Back End Engineering? 
+# What is Web Development?
 
 ## How Does the Internet Even Work?
 
@@ -31,7 +31,7 @@ The Front End will prompt users in various ways to collect information which can
 
 ## What technologies are used on the Front End?
 
-The three main technologies used on the Front End are:
+The three main technologies used by Front End Engineers are:
 - CSS (styling of the webpage)
 - HTML
 - JavaScript
@@ -53,7 +53,7 @@ When we talk about Back End engineering, we're often thinking of the programming
 
 ## What technologies are used on the Back End?
 
-There are numerous technologies that can be used for Back End programming. Here are a few of them:
+There are numerous technologies that can be used by Back End Engineers. Here are a few of them:
 
 - **Languages and frameworks**: Ruby/Rails, Python/Django, Elixir/Phoenix, Java/Spring, and more.
 - **Databases**: PostgreSQL, MySQL, Oracle Database, MongoDB, etc.
