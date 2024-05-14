@@ -45,7 +45,7 @@ HTML is made up of a series of **elements**. Each of the lines above represents 
 ### JavaScript
 
 ```js
-var paragraph = document.querySelector('p'); // a variable forthe paragraph element
+var paragraph = document.querySelector('p'); // a variable for the paragraph element
 var input = document.querySelector('input'); // a variable for the input element
 
 var userInput = input.value; // a variable that stores the input from the user
@@ -108,8 +108,8 @@ function doSomething() {
 
 <div class="try-it-new">
   <h2>Next Level</h2>
-  <p>For this challenge, you'll use the same Replit you used for the previous one! In the previous challenge, you changed the title, but it happened on page load, so it wasn't very exciting.</p>
-  <p><strong>Your Challenge:</strong> Combine the two new pieces of knowledge/skill you have to allow the <em>user</em>  to change the title only when the button is clicked.</p>
+  <p>In the previous `Apply and Explore`, we changed the title in our HTML, but it happened on page load, so it wasn't very exciting.</p>
+  <p><strong>Your Challenge:</strong> Combine the two new pieces of knowledge/skill you have to allow the <em>user</em>  to change the title when the button is clicked.</p>
 
   <p><strong>Hint:</strong> You will need to use the <code>paragraph.innerText</code> and set it equal to <code>userInput</code></p>
 </div>
