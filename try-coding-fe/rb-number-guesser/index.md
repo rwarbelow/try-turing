@@ -39,7 +39,7 @@ Now let's take a look at what this same code would look like if you were impleme
 
 ### Explore: Back End Number Guesser
 
-Take a few minutes to explore the code below.</p>
+Take a few minutes to explore the code below.  
 Consider: What are the similarities and differences you see between the Ruby code and the JavaScript code?
 
 ```ruby
@@ -62,13 +62,13 @@ end
 
 Whether we're working on the Front End or the Back End of an application, there is a lot of logic and data manipulation involved as illustrated by the number guessing code. The difference in Front End and Back End comes in what you'd work on next.
 
-If you're in the Front End program your next steps in this number guesser program might be to change the user interface, what the user sees and interacts with. Think about the webpage for this number guessing application.
+If you're working on the Frontend your next steps in this number guesser program might be to change the user interface, what the user sees and interacts with. Think about the webpage for this number guessing application.
 
 - What would the styling of this page be? (colors, fonts, shading)
 - How would the user input their guess and what would that _element_ look like?
 - Would there be any animations on the page to engage the user?
 
-If you're in the Back End program, your next steps might be in dealing with how to store this data and what to do with the data.
+If you're working on the Backend, your next steps might be in dealing with how to store this data and what to do with the data.
 
 - How should we store the information in the database?
 - Do we need to manipulate the data before storing it?
