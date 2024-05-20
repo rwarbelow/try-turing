@@ -486,49 +486,40 @@ nav {
   font-weight: 700;
   z-index: 99;
   background: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
 }
+
 .nav-links {
-  display: grid;
-  grid-template-columns: auto 230px 230px;
-  grid-template-rows: 120px;
+  display: flex;
   align-items: center;
   justify-items: center;
-  grid-gap: 0 10px;
-  margin-top: 0;
-  list-style: none;
-
-  li:first-child {
-    justify-self: left;
-    margin: 5px 0;
-  }
+  list-style-type: none;
 
   a {
     color: $dark-gray;
-    border-bottom: 3px solid transparent;
     transition: border-color 0.3s;
+    text-decoration: none;
   }
 
-  li:not(:first-child) {
-    // Hover border does not apply to logo
+  li {
+    margin: 10px;
     a:hover {
       border-bottom: 3px solid lighten($turing-secondary, 25%);
     }
   }
+}
 
-  li:not(:first-child):hover {
-    background-color: #fff;
-  }
-
-  .home-logo-link img {
-    display: block;
-    height: 80px;
-    width: 80px;
-  }
+.home-logo-link img {
+  display: block;
+  height: 80px;
+  width: 80px;
+  margin-left: 10px;
 }
 
 .nav-links a.active-link {
-  // This border does not get applied to logo
-  // because of code in active-links.js file
   border-bottom: 3px solid lighten($turing-secondary, 25%);
 }
 
@@ -548,27 +539,14 @@ nav {
 
 @media (max-width: 850px) {
   .nav-links {
-    margin: 0 15px 15px 15px;
-    padding: 15px 0 0 0;
-    font-size: 1rem;
-    grid-template-columns: auto auto;
-    grid-template-rows: 45px 45px;
-    justify-items: right;
+    flex-direction: column;
+    align-items: end;
+    margin: 0px;
+  }
 
-    li {
-      grid-column: 2;
-      font-size: 13px;
-    }
-
-    li:first-child {
-      grid-column: 1;
-      grid-row: 1 / 5;
-    }
-
-    .home-logo-link img {
-      height: 70px;
-      width: 70px;
-    }
+  .home-logo-link img {
+    height: 70px;
+    width: 70px;
   }
 }
 
