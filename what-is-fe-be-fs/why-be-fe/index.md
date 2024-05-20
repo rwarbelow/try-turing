@@ -28,7 +28,7 @@ Then, in Module 4, students will choose to "major" in Front End with Javascript/
 
 At Turing, we teach through projects. In Mods 1 - 3, you will complete 3 - 4 projects each Mod, allowing you to experience real software development.
 
-Check out some projects that our Front End and Back End students have built!
+Check out some projects that our students have built!
 [Student Projects](https://try.turing.edu/what-students-learn/)
 
 ## What Type of Jobs Can I Expect to Get?
