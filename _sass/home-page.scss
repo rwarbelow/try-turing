@@ -523,20 +523,6 @@ nav {
   border-bottom: 3px solid lighten($turing-secondary, 25%);
 }
 
-// @media (max-width: 1024px) {
-//   .nav-links {
-//     margin: 0 35px;
-//     font-size: 0.9rem;
-//     grid-template-columns: auto 200px 200px;
-//     grid-template-rows: 90px;
-
-//     .home-logo-link img {
-//       height: 55px;
-//       width: 55px;
-//     }
-//   }
-// }
-
 @media (max-width: 850px) {
   .nav-links {
     flex-direction: column;
