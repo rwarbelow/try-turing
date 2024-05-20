@@ -9,23 +9,20 @@ layout: lesson
 
 # What We Teach at Turing and Why
 
-## At Turing, we teach two separate programs: Front End and Back End Development
+## Turing is Shifting to a Single Software Development Program
+Starting with our July 2024 cohort, we’re taking the best ideas from our previous programs and creating one powerful Software Engineering program. The four modules will go like this:
 
-Essentially, coding is coding, software development is software development whether you’re working Front End or Back End or both. Here at Turing, you will learn the fundamentals of programming and the concepts to be a good software developer. We use a backend language (Ruby) or a frontend language (JavaScript) to facilitate learning these concepts. 
+**Module 1 - Object-Oriented Programming**
+When students come in we have to build the foundation. We’ll use Ruby with a bit of Javascript to explore how code works and what Object-Oriented programming is all about. How we use basics like variables, control flow, and iterators and combine them with patterns of practice like planning, pseudocoding, refactoring, and source control. We’ll do it in a mix of project-based work solo, in pairs, and in groups. By the end of Mod 1, students will be competent at writing code.
 
-We teach Front End or Back End separately so we can dive deep into this content and allow you to have a deep, solid understanding of software development.
+**Module 2 - Web Application Development**
+The Model-View-Controller approach is a powerful way to build modern web applications. Using Rails, we’ll work through the key concepts and build functional full-stack applications. Along the way, we lean further into Javascript both as a comparison to the work we're doing on the back end as well as starting to implement some things client side. By the end of the module, students are building and deploying respectable full-stack applications.
 
-Once you’ve got a good grasp on these fundamentals, you’ll be able to translate that information to any language or framework in the future, setting you up for success no matter what end of the stack or what language you end up working in. 
+**Module 3 - Professional Web Applications**
+The modern web application is complex — it’s integrating data from external APIs, Generative AI, multiple databases, and feeding that all to a rich front end. In Module 3, students step beyond the simple one-language-one-framework monolith and juggle multiple domains of responsibility. To build truer full-stack applications, they’re working in at least two languages and two frameworks. It’s a picture of what work in the field looks like — taking what you know from one tech and applying it in new domains.
 
-## The Realm of Software Development is Massive
-
-Software is growing in complexity and is too vast for one person to know everything. Choosing a specialty allows you to be really good at one side of the stack and to grow deep knowledge and understanding. 
-
-If we tried to teach a Full Stack program in 7 months, we would only be able to give you a surface level overview of all the technologies and what they do. We wouldn’t be able to dive deep into the foundational knowledge and concepts that would allow you to transfer these skills to any language.
-
-However, specializing in Front End or Back End, does not mean you have to work that side of the stack for the rest of your life. We have many Back End students who end up getting jobs as Full Stack or Front End engineers and Front End students who get jobs as Full Stack or Back End devs. Because we do a deep dive of the fundamentals, it means you can apply those concepts to any language moving forward. 
-
-*******Note:******* Our Back End students do learn about the Front End and build applications with user interaction and our Front End students do learn about storing data on the server. No matter which program you choose, you will learn about the Full Stack, but you will dive deep into one side.
+**Module 4 - Cross-Team Processes and Applications**
+Then, in Module 4, students will choose to "major" in Front End with Javascript/React or Back End with Ruby/Rails. But we'll also emphasize branching out – maybe an FEE major decides to specialize in Angular or a BEE student dives into Python and Django. Along the way, they collaborate in teams on bigger Capstone projects that can mix and maximize all their diverse interests. And we’re excited to integrate outside experts to offer special sessions on subjects like Site Reliability Engineering, SDET, and Application Monitoring and Performance.
 
 ## Sample Projects
 
@@ -34,9 +31,7 @@ At Turing, we teach through projects. In Mods 1 - 3, you will complete 3 - 4 pro
 Check out some projects that our Front End and Back End students have built!
 [Student Projects](https://try.turing.edu/what-students-learn/)
 
-## Which Program Should I Choose? 
-
-Ultimately, it does not matter. 
+## What Type of Jobs Can I Expect to Get?
 
 Here is a list of job titles some of our alumni have gotten:
 
@@ -51,8 +46,6 @@ Here is a list of job titles some of our alumni have gotten:
 - Front-End Developer
 
 Our students are prepared to enter the field of software development, period. If you can understand the concepts and the fundamentals and ***how*** everything is working, then you can pick up other languages and frameworks. They all essentially work the same, the syntax, or ***how*** the languages are written is just different. 
-
-You should pick the program that you think will bring you the most joy. Both programs are challenging. Both involve a lot of logic. So, would you rather spend more time focusing on creating the User Interface? Or would you rather focus on how data is stored and manipulated in a database?
 
 
 ## Up Next:
