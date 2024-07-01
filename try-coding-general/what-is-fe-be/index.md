@@ -36,7 +36,7 @@ The three main technologies used by Front End Engineers are:
 - HTML
 - JavaScript
 
-Other frameworks are build on top of JavaScript such as React, Vue, or Angular.
+Other frameworks are built on top of JavaScript such as React, Vue, or Angular.
 
 
 ## What is the Back End?
