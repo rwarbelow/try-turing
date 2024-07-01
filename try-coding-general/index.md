@@ -38,7 +38,7 @@ There are several ways to get my attention throughout the workshop today. Let’
 - **Raise your hand.** Find your zoom toolbar, click Reactions, then Raise Hand.
 - **Introduce yourself!** Share your name, pronouns, and your location. Then, share why you’re here.
 1. I’m looking for a career change and I’m trying coding for the first time.
-2. I already know I want to attend Turing, but want to learn more!
+2. I already know I want to attend Turing, but I want to learn more!
 3. My friend or family member won’t stop bugging me about checking this out, so here I am!
 
 ### Up Next

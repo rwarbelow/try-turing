@@ -33,9 +33,9 @@ function checkGuess() {
 }
 ```
 
-This is something you might build if you were in the Front End program at Turing.
+This is something you might build as a Front End developer.
 
-Now let's take a look at what this same code would look like if you were implementing Ruby in our Back End program.
+Now let's take a look at what this same code would look like if you were implementing Ruby, a Back End language.
 
 ### Explore: Back End Number Guesser
 
