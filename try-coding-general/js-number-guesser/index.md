@@ -27,9 +27,9 @@ else
 end
 ```
 
-This is something you might build if you were in the Back End program at Turing.
+This is something you might build as a Back End developer.
 
-Now let's take a look at what this same code would look like if you were implementing JavaScript in our Front End program. 
+Now let's take a look at what this same code would look like if you were implementing JavaScript as a Front End developer. 
 
 <div class="try-it-new">
   <h2>Explore: Front End Number Guesser</h2>
@@ -42,14 +42,14 @@ Now let's take a look at what this same code would look like if you were impleme
 
 Whether we're working on the Front End or the Back End of an application, there is a lot of logic and data manipulation involved as illustrated by the number guessing code. The difference in Front End and Back End comes in what you'd work on next. 
 
-If you're in the Front End program your next steps in this number guesser program might be to build the user interface, what the user sees and interacts with. Think about the webpage for this number guessing application. 
+As a Front End developer, your next steps in this number guesser program might be to build the user interface, what the user sees and interacts with. Think about the webpage for this number guessing application. 
 
 - What would the styling of this page be? (colors, fonts, shading)
 - How would the user input their guess and what would that *element* look like? 
 - Would there be any animations on the page to engage the user? 
 
 
-If you're in the Back End program, your next steps might be in dealing with how to store this data and what to do with the data.
+As a Back End developer, your next steps might be in dealing with how to store this data and what to do with the data.
 
 - How should we store the information in the database? 
 - Do we need to manipulate the data before storing it? 
