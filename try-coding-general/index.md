@@ -4,7 +4,7 @@ layout: lesson
 
 # Try Coding - Ruby Focus
 
-Please sign up for a free <a target="blank" href="https://replit.com/~">replit.com</a> account before beginning this workshop.
+Please sign up for a free <a target="blank" href="https://replit.com/~">replit.com</a> account before beginning this workshop. _Note that replit's free account will only allow 3 repls.  You may need to delete an old repl or copy/paste code to combine repls if you meet the limit during this session._
 
 ## Welcome
 
