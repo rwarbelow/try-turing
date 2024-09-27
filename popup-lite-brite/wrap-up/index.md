@@ -2,33 +2,22 @@
 layout: lesson
 ---
 
-<a href="../">Back to Setup Page</a>
+# Next Steps
 
-# Wrap-Up
+## Feedback
 
-You did it! <span role="img" aria-label="celebration emoji">🎉</span> Thank you so much for spending your weekend with us. I hope that thinking about on your reason for why you came, you feel like this time was well-spent and you gained some new knowledge, whether that's about code, Turing, or even yourself!
+At Turing, we rely on constant feedback from our students to improve the Turing experience. Please take two minutes at this time to fill out <a target="blank" href="https://airtable.com/appR5bqtCZv7u3xXX/shr8IHKqMDPRxVZlz">this survey</a> to give us feedback on this Try Coding session today.
 
-<strong>Please share about your experience, and how we can best support you moving forward, by completing <a target="blank" href="https://forms.gle/VJB9gkJzFEWerpZS8">this survey</a>.</strong>
+## Attend Other Events
 
-## Share It!
-One final step... let's make sure everyone can find the link to share your Lite-Brite with the world.
+We are always creating new, exciting events for prospective students. Check out our upcoming events <a target="blank" href="https://www.eventbrite.com/o/turing-school-of-software-design-9895674202">here</a>!
 
-You can find the live URL above the "mini-browser". Copy and paste the link, or click the button in the far-right to open it in a new tab. Have fun <span role="img" aria-label="celebration emoji">🎉</span>
+## Talk to Us
 
-![Screenshot of repl.it interface with box highlighting the URL to the live site page on far right/top](../assets/live-link.png)
+We know everyone has different barriers or concerns as they start this process. Our team is here to help you find solutions to each barrier and ease your concerns from how to pay for Turing to what is the job support like.
 
-<strong>Bonus points if you share on social media and tag Turing!</strong>
-- <a target="blank" href="https://www.instagram.com/turing_school/">Instagram</a>
-- <a target="blank" href="https://www.facebook.com/turingschool/">Facebook</a>
-- <a target="blank" href="https://twitter.com/turingschool">Twitter</a>
+Reach out if you have any questions at all - from _Can I afford this?_  to _Is Software Engineering for me?_  to _What is a typical day like as a Turing student?_ - we're here for you! Email **admissions@turing.edu** with your questions and we'll schedule a one on one call with you!
 
-## Next Steps
-Are you in love with coding? Here are some next steps you may want to take:
-- [Set up a time to meet with Launa](https://go.oncehub.com/LaunaGardner1) about what that could look like for you at Turing _or_ send her an email at **launa@turing.edu**.
-- [Start your application](https://apply.turing.edu/) to join us as a full-time student.
+## Apply!
 
-Want to do a little more exploration before taking the next step toward a career change? Here are some great places to start:
-- Attend another <a target="blank" href="https://turing.edu/try-coding">Try Coding</a> workshop.
-- Get more exposure and gain comfort with the syntax by working through one of [Codecademy's free tutorials](https://www.codecademy.com/).
-
-<a href="../">Back to Intro page</a>
+Let's do it! Start your application today at <a target="blank" href="https://apply.turing.edu/">apply.turing.edu</a>.

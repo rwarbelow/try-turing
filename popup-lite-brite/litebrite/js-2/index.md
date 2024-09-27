@@ -2,8 +2,6 @@
 layout: lesson
 ---
 
-<a href="../">Back to Setup Page</a>
-
 # Building More Lite-Brite Functionality
 
 We have an _almost-working_ Lite-Brite and you can probably partly (or even fully) explain how it's working. This is huge! In this section, we will add one final piece of functionality.
@@ -12,13 +10,13 @@ Reminder: We won't go deep with how each little thing in JavaScript works today.
 
 ## Planning for New Functionality
 
-A lot of people have the misconception that coding is all about typing really fast, in a basement, usually alone, etc. That's not really the case. Most software developers say they spend at least 40% of their time planning and/or collaborating with other developers on how to design solutions in code.
+A lot of people have the misconception that coding is all about typing really fast, drinking lots of coffee, usually alone, etc. That's not really the case. Most software developers say they spend at least 40% of their time planning and/or collaborating with other developers on how to design solutions in code.
 
 <div class="try-it-new">
   <h2>Planning a PB&J</h2>
   <p>Before we worry about the code, let's engage in an important exercise.</p>
   <p>You are trying to program a robot to make you or your kids a peanut butter and jelly sandwich. <strong>Jot down the steps you would tell the robot to take.</strong></p>
-  <p><em><a href="https://www.youtube.com/watch?v=Ct-lOOUqmyY" target="blank">Here's a video</a> of a dad following the directions his kids gave him.</em></p>
+  <p><em><a href="https://www.youtube.com/watch?v=cDA3_5982h8" target="blank">Here's a video</a> of a dad following the directions his kids gave him.</em></p>
 </div>
 
 ### Planning Functionality
@@ -36,7 +34,7 @@ Let's write the pseudo-code in the repl.it file. You can follow along or just wa
 
 Option 1: Code the solution (code-along).
 
-Option 2: Copy and paste from the [final solution](https://replit.com/@turingschool/lite-brite-final#script.js).
+Option 2: Copy and paste from the [final solution](https://codepen.io/turing-trycoding/pen/KKOpGJJ).
 
 <br>
 
@@ -47,6 +45,13 @@ Option 2: Copy and paste from the [final solution](https://replit.com/@turingsch
 - You likely have some gaps in fully understanding the final solution - again, that is OKAY - the goal of this was not to go deep, but spark some interest for what is possible!
 <br>
 
-<a href="../extensions">Next Section: Extensions</a>
-<br>
-<a href="../wrap-up">Wrap Up</a>
+### Up Next
+
+- [What is Front End and Back End Engineering?](../../what-is-fe-be)
+- [Project Setup](../)
+- [HTML - Content](../html)
+- [CSS - Styles](../css)
+- [JavaScript- Explore](../js-1)
+- <strong>[JavaScript - Create](../js-2)</strong>
+- [Extensions](../extensions)
+- [Wrap-Up](../wrap-up)

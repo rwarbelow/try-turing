@@ -2,8 +2,6 @@
 layout: lesson
 ---
 
-<a href="../">Back to Setup Page</a>
-
 # Lite-Brite Extensions
 
 If the class has extra time, or individuals want to continue building on their Lite-Brite after the workshop, here are some areas to explore!
@@ -16,7 +14,7 @@ We can provide a "color picker" input to the user so that they can choose from, 
 
 ### Step 1
 
-In your Lite-Brite replit, add this code to the HTML file, inside of the `controls` section:
+In your Lite-Brite codepen, add this code to the HTML file, inside of the `controls` section:
 
 ```html
 <input type="color" class="color-option color-picker"/>
@@ -66,4 +64,13 @@ The `.val()` method used in the previous snippet takes the value from an input. 
 
 Run the program, and try this functionality out!
 
-<a href="../wrap-up">Wrap Up</a>
+### Up Next
+
+- [What is Front End and Back End Engineering?](../../what-is-fe-be)
+- [Project Setup](../)
+- [HTML - Content](../html)
+- [CSS - Styles](../css)
+- [JavaScript- Explore](../js-1)
+- [JavaScript - Create](../js-2)
+- <strong>[Extensions](../extensions)</strong>
+- [Wrap-Up](../../wrap-up)

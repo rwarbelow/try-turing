@@ -2,77 +2,53 @@
 layout: lesson
 ---
 
-# Pop Up: Build a Virtual Lite-Brite
+# Try Coding - Basics of Web Development (HTML, CSS + JavaScript)
 
-[Thinking of a Lite-Brite](https://en.wikipedia.org/wiki/Lite-Brite) may make you nostalgic. But these days, they are covered in germs. In this live, instructor-led workshop, you will build and customize your very own _virtual_ Lite Brite that you can share with anyone around the world!
+Please sign up for a free <a target="blank" href="https://codepen.io">codepen.io</a> account before beginning this workshop.
 
-_This will be best experienced on a desktop or laptop computer._
+## Welcome
 
-## Welcome!
+- Open up <a target="blank" href="https://codepen.io">codepen.io</a> in a browser (preferably Chrome) and log into your account.
+- Change your Zoom display name to your first name, last initial, and pronouns – Kaitlyn V. (she/her). To do that, hover over your image in the gallery view, click the three dots, and select Rename.
+- Heads up! We will ask you to introduce yourself in a moment.
 
-We are so glad you are here! To get set up...
-1. Open up <a target="blank" href="http://repl.it/">repl.it</a> in a browser (preferably Chrome) and log in to your account.
-1. Please change your zoom name to first name, last initial, pronouns like this: _Kaitlyn V. (she/her)_. To do this, hover over your image on zoom, click the three dots and select _Rename_ from the menu.
-1. Heads up! We will ask you to briefly introduce yourself in a few minutes.
-<br><br>
+## What to Expect
 
-## Goals
+Over the course of the workshop, we will write code, practice the habits of successful developers, and learn a little more about Turing. We will ask you to introduce yourself, ask questions, and occasionally share answers to the technical work we do! By the end of today, you will build your very own “LiteBrite”. Below is our agenda for the day:
 
-- Build and customize a virtual Lite-Brite
-- Gain _exposure_ and familiarity with some HTML, CSS, and JavaScript
-- Determine if coding is something you enjoy doing and want to pursue further
+- Welcome & Introductions (30 minutes)
+- Instruction (90 minutes)
+- Wrap-Up (15 minutes)
 
-Disclaimer: We won't become experts in these languages today. And you may leave with more questions than answers!
-<br><br>
+## Learning Norms
 
-## Zoom Tools and Introductions
-- Reactions - Have you ever written JavaScript code before?
-- Chat - Would you rather have a professional chef or housekeeper?
-- Unmute - Introduce yourself! Please share your name, pronouns, location, and why you are here!
+- No question is too small and no question is a bad question. Ask them!
+- We all benefit from each other's ideas! Push yourself to share at least one time today.
+- Keep your camera on during the session (if you can).
+- **Questions?** Type into the zoom chat, raise your hand, or come off of mute! Please avoid direct messages unless it is a specific issue only to yourself.
+- **Disconnected?** Jump back on!
+  <br>
 
-## Programming Languages We Will Use
+## Zoom Practice
 
-Building the user-facing part of a website or app is referred to as Front End Engineering. Building a Front End requires the writing code in three programming languages, and making the code in each language "talk to" the code in the others.
+There are several ways to get my attention throughout the workshop today. Let’s practice using some of these tools now.
 
-It can feel like a lot, but let's start by building an understanding of what each language is responsible for. We will make some comparisons to the human body to create context.
+- **Type in the chat to everyone.** What is your favorite genre of music?
+- **Send the instructor a direct message.** What word describes how you are feeling today?
+- **Raise your hand.** Find your zoom toolbar, click Reactions, then Raise Hand.
+- **Introduce yourself!** Share your name, pronouns, and your location. Then, share why you’re here.
 
-<section class="data-type-cards language-cards">
-  <div>
-    <h3>HTML</h3>
-    <p>HTML holds the content we see on a page (text, images) and defines the structure and order in which the content appears.</p>
-    <p>We can think of HTML as the skeleton of our webpage; without it, we'd just be a blob:</p>
-    <img src="./assets/html.png" alt="Drawing of human skeleton" />
-  </div>
+1. I’m looking for a career change and I’m trying coding for the first time.
+2. I already know I want to attend Turing, but I want to learn more!
+3. My friend or family member won’t stop bugging me about checking this out, so here I am!
 
-  <div>
-    <h3>CSS</h3>
-    <p>CSS defines the look and feel of a webpage - it can change the size or layout of items on a page, change colors, fonts, and more!</p>
-    <p>We can think of CSS as anything that makes us unique and recognizable - our skin, hair, clothes, style, etc.</p>
-    <img src="./assets/css.png" alt="Drawing of human skeleton" />
-  </div>
+### Up Next
 
-  <div>
-    <h3>JavaScript</h3>
-    <p>JavaScript is what lets the user interact with a page. For example, clicking a button and getting some sort of response.</p>
-    <p>We can think of JavaScript as the brain and muscle of our webpage, as it powers all the action:</p>
-    <img src="./assets/js.png" alt="Drawing of human skeleton" />
-  </div>
-</section>
-<br><br>
-
-## Project Setup
-
-We will work off of a starter kit that has already been created. Click [this link to access the starter kit](https://replit.com/@turingschool/lite-brite-starter#index.html) in repl.it. Here's how to get set up:
-1. Fork the project - this makes a copy on your account.
-1. Once you are on the site, substitute your name in for the `NAME` placeholder on line 11 of the HTML file.
-1. Click the green "Run" button at the top of the page, and you should see a mini Lite-Brite project on the right side of the page.
-
-<br><br>
-
-## Now, it gets even more fun:
+- [What is Front End and Back End Engineering?](./what-is-fe-be)
+- [Project Setup](./litebrite)
 - [HTML - Content](./html)
 - [CSS - Styles](./css)
 - [JavaScript- Explore](./js-1)
 - [JavaScript - Create](./js-2)
 - [Extensions](./extensions)
-- [Wrap Up](./wrap-up)
+- [Wrap-Up](./wrap-up)
