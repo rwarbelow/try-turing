@@ -2,20 +2,18 @@
 layout: lesson
 ---
 
-<a href="../">Back to Setup Page</a>
-
 # Modifying the Lite-Brite CSS
 
 CSS allows us to "dress up" the content on our page.
 
 ## Tour the Existing Code
 
-- CSS allows us to target types of elements (ex: `body`, `div`) and specific elements based on class name (ex: `dot-container`).
+- CSS allows us to target types of elements (ex: `section`, `div`) and specific elements based on class name (ex: `dot-container`).
 - Once we've targeted an element, we can write rules for that element to follow. Rules can be things like _"the text of this element should be red"_ or, _"the background color should be grey"_.
 
 ### Explore to Learn:
 
-After you complete each task that follows, re-run the program and observe the changes in the browser!
+After you complete each task that follows, observe the changes in the browser!
 - On line 9 of the CSS file, change `black` to `magenta`
 - On line 10, change `lightgrey` to `orange`
 - On line 11, change `10px` to `50px`
@@ -35,7 +33,7 @@ You may be wondering, "how does one know all these special keywords and commands
   <li>Optional: Tinker with the colors used throughout your app!</li>
   </ul>
   <p>Play around with these sizes until you are satisfied with your board. <em>This may be the time where you also decide to go back to the HTML file and add more dots!</em></p>
-  <p>You may notice that the layout of the dots in your dot container is responsive to the size of the window. This is because the dot container takes up as much space as it can horizontally, unless we tell it to do something different. If you want your dots to be in a fixed location, without considering the size of the window, set the width property on your dot container to be a fixed pixel value, like 500px. <strong>You may have to play around with the right number of dots, size of the dots, space around the dots, and width until you get it lined up perfectly.</strong></p>
+  <p>You may notice that the layout of the dots in your dot container is responsive to the size of the window. This is because the dot container takes up as much space as it can horizontally, unless we tell it to do something different. If you want your dots to be in a fixed location, without considering the size of the window, set the width property on your `dot-container` to be a fixed pixel value, like 500px. <strong>You may have to play around with the right number of dots, size of the dots, space around the dots, and width until you get it lined up perfectly.</strong></p>
 </div>
 
 ## CSS Summary
@@ -44,4 +42,13 @@ You may be wondering, "how does one know all these special keywords and commands
 - Based on the type of rule, CSS will expect different values (ex: `magenta` for a color and `10px` for a measurement).
 - There are many types of rules we can write; with practice, we become familiar with more but don't need to memorize them all.
 
-<a href="../js-1">Next Section: Exploring JavaScript</a>
+### Up Next
+
+- [What is Front End and Back End Engineering?](../../what-is-fe-be)
+- [Project Setup](../)
+- [HTML - Content](../html)
+- <strong>[CSS - Styles](../css)</strong>
+- [JavaScript- Explore](../js-1)
+- [JavaScript - Create](../js-2)
+- [Extensions](../extensions)
+- [Wrap-Up](../../wrap-up)
