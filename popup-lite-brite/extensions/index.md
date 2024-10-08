@@ -66,11 +66,11 @@ Run the program, and try this functionality out!
 
 ### Up Next
 
-- [What is Front End and Back End Engineering?](../../what-is-fe-be)
-- [Project Setup](../)
+- [What is Front End and Back End Engineering?](../what-is-fe-be)
+- [Project Setup](../litebrite)
 - [HTML - Content](../html)
 - [CSS - Styles](../css)
 - [JavaScript- Explore](../js-1)
 - [JavaScript - Create](../js-2)
 - <strong>[Extensions](../extensions)</strong>
-- [Wrap-Up](../../wrap-up)
+- [Wrap-Up](../wrap-up)

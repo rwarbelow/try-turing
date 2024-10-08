@@ -29,11 +29,11 @@ layout: lesson
 
 ### Up Next
 
-- [What is Front End and Back End Engineering?](../../what-is-fe-be)
-- [Project Setup](../)
+- [What is Front End and Back End Engineering?](../what-is-fe-be)
+- [Project Setup](../litebrite)
 - <strong>[HTML - Content](../html)</strong>
 - [CSS - Styles](../css)
 - [JavaScript- Explore](../js-1)
 - [JavaScript - Create](../js-2)
 - [Extensions](../extensions)
-- [Wrap-Up](../../wrap-up)
+- [Wrap-Up](../wrap-up)

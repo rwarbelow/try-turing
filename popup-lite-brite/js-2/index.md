@@ -47,8 +47,8 @@ Option 2: Copy and paste from the [final solution](https://codepen.io/turing-try
 
 ### Up Next
 
-- [What is Front End and Back End Engineering?](../../what-is-fe-be)
-- [Project Setup](../)
+- [What is Front End and Back End Engineering?](../what-is-fe-be)
+- [Project Setup](../litebrite)
 - [HTML - Content](../html)
 - [CSS - Styles](../css)
 - [JavaScript- Explore](../js-1)

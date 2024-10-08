@@ -41,11 +41,11 @@ Now, let's walk through each line of the existing JavaScript to understand what'
 
 ### Up Next
 
-- [What is Front End and Back End Engineering?](../../what-is-fe-be)
-- [Project Setup](../)
+- [What is Front End and Back End Engineering?](../what-is-fe-be)
+- [Project Setup](../litebrite)
 - [HTML - Content](../html)
 - [CSS - Styles](../css)
 - <strong>[JavaScript- Explore](../js-1)</strong>
 - [JavaScript - Create](../js-2)
 - [Extensions](../extensions)
-- [Wrap-Up](../../wrap-up)
+- [Wrap-Up](../wrap-up)

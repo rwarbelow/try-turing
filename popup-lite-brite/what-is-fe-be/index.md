@@ -74,9 +74,9 @@ Both Front End and Back End deal with taking in data (input), and then giving ba
 
 - <strong>[What is Front End and Back End Engineering?](../what-is-fe-be)</strong>
 - [Project Setup](../litebrite)
-- [HTML - Content](../litebrite/html)
-- [CSS - Styles](../litebrite/css)
-- [JavaScript- Explore](../litebrite/js-1)
-- [JavaScript - Create](../litebrite/js-2)
-- [Extensions](../litebrite/extensions)
+- [HTML - Content](../html)
+- [CSS - Styles](../css)
+- [JavaScript- Explore](../js-1)
+- [JavaScript - Create](../js-2)
+- [Extensions](../extensions)
 - [Wrap-Up](../wrap-up)
