@@ -2,7 +2,7 @@
 layout: lesson
 ---
 
-# Pop Up: Valentines OOP
+# Pop Up: Spooky Ruby OOP
 
 ![Skeleton costumed child, holding a pumpkin-shaped bowl of candy](./assets/candy_bowl.jpg)
 <br>
@@ -61,5 +61,4 @@ To gain some familiarity with repl.it, the interface we will use to write code i
 ## Now, it gets even more fun:
 - [OOP - Candy Factory](./oop)
 - [OOP - Syntax Activity](./class-syntax)
-- [Automating Valentines](./valentine)
 - [Wrap Up](./wrap-up)
