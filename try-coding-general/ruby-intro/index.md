@@ -94,7 +94,7 @@ Our programs haven’t been very exciting so far because we already know what wi
 **Explore**
 
 1. <a href="https://replit.com/@turingschool/ColdPowderblueMeasurements" target="blank">Read the code in this replit</a> and *guess* what it will do. It is also available below, if you prefer to preview it here.
-2. Fork and Run the program. It's interactive! Be ready to type in your answers in the console area.
+2. Copy this code into your sandbox! Be ready to type in your answers in the console area.
 
 <iframe frameborder="0" width="100%" height="600px" src="https://replit.com/@turingschool/Getting-User-Input?lite=true"></iframe>
 
